@@ -10,3 +10,6 @@ table, th, td{
     border-collapse: collapse;
     border-radius: 9px;
 }
+th, td{
+    background-color: aqua;
+}
